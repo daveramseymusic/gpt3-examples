@@ -11,6 +11,6 @@ openai.api_key = API_KEY
 
 # %% ../nbs/00_core.ipynb 12
 def ask_gpt3(prompt):
-    response = openai.Completion.create(engine="text-davinci-001", prompt=prompt, max_tokens=6)
+    response = openai.Completion.create(engine="text-davinci-001", prompt=prompt, max_tokens=20)
     text_response = str(response["choices"][0]["text"])[2:]
     return text_response
