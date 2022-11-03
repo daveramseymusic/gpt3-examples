@@ -14,10 +14,16 @@ pip install gpt3_examples
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+Import the functions and use them to play with GPT-3 models. Make sure
+you create your own API keys by signing up in OpenAI
+
+# Example
 
 ``` python
-1+1
+prompt = 'Whats a good tagline for champaign'
+
+text_response = ask_gpt3(prompt)
+print(text_response)
 ```
 
-    2
+    NameError: name 'ask_gpt3' is not defined

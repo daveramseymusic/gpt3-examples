@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://daveramseymusic.github.io',
                 'git_url': 'https://github.com/daveramseymusic/gpt3-examples',
                 'lib_path': 'gpt3_examples'},
-  'syms': {'gpt3_examples.core': {'gpt3_examples.core.foo': ('core.html#foo', 'gpt3_examples/core.py')}}}
+  'syms': {'gpt3_examples.core': {'gpt3_examples.core.ask_gpt3': ('core.html#ask_gpt3', 'gpt3_examples/core.py')}}}
