@@ -28,4 +28,4 @@ text_response = ask_gpt3(prompt)
 print(text_response)
 ```
 
-    Life is too short to drink bad champagne.
+     bubbles for everyone!
