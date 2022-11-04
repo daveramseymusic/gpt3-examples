@@ -28,4 +28,5 @@ text_response = ask_gpt3(prompt)
 print(text_response)
 ```
 
-     bubbles for everyone!
+
+    Perfect for any celebration!
