@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+settings.ini
+setup.py
+gpt3_examples/__init__.py
+gpt3_examples/_modidx.py
+gpt3_examples/core.py
+gpt3_examples.egg-info/PKG-INFO
+gpt3_examples.egg-info/SOURCES.txt
+gpt3_examples.egg-info/dependency_links.txt
+gpt3_examples.egg-info/entry_points.txt
+gpt3_examples.egg-info/not-zip-safe
+gpt3_examples.egg-info/requires.txt
+gpt3_examples.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[nbdev]
+gpt3_examples = gpt3_examples._modidx:d

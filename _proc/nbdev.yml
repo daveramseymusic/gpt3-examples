@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gpt3-examples"
+  site-url: "https://daveramseymusic.github.io/gpt3-examples"
+  description: "connect with gpt3 and try out some things"
+  repo-branch: main
+  repo-url: "https://github.com/daveramseymusic/gpt3-examples"
