@@ -18,7 +18,8 @@ you create your own API keys by signing up in OpenAI
 
 > Lets ask GPT3 to create some text for us!
 
-First we set the model and the number of tokens to use
+    -First we write a prompt to send to the model
+    -Then the model creates text for us based on the prompt
 
 ``` python
 prompt = 'Whats a good tagline for champaign'
@@ -27,4 +28,4 @@ text_response = ask_gpt3(prompt)
 print(text_response)
 ```
 
-    Unforgettable Taste.
+    Life is too short to drink bad champagne.

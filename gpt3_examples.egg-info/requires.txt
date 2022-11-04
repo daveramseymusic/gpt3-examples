@@ -1,2 +1,5 @@
+fastcore
+pandas
+openai
 
 [dev]
