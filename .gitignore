@@ -1,1 +1,17 @@
 /api_secrets.py
+_docs/
+_proc/
+
+*.bak
+.gitattributes
+.last_checked
+.gitconfig
+*.bak
+*.log
+*~
+~*
+_tmp*
+tmp*
+tags
+*.pkg
+
