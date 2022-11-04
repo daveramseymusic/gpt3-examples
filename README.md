@@ -27,4 +27,4 @@ text_response = ask_gpt3(prompt)
 print(text_response)
 ```
 
-    TypeError: ask_gpt3() missing 2 required positional arguments: 'engine' and 'max_tokens'
+    Unforgettable Taste.
